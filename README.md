@@ -20,7 +20,9 @@ A equipe responsável por desenvolver esse projeto é:
 - Ricardo
 
 ## Escopo
-**Descrição:** O projeto a ser desenvolvido consiste em uma rede social para entusiastas de séries, filmes, documentários e outros tpitulos audiovisuais. Nela, os usuários poderão registrar quais desses videos assistiram, dando sua opinião e avaliando os mesmos, além de encontrar outras pessoas que compartilham dos mesmos gostos para comentar sobre os títulos.
+**Motivação:** Com o surgimento e aumento das plataforma de Streaming além das consequências do Covid, a utilização dessas mídias tem aumentado bastante nos últimos tempos. Assim sendo, vemos a oportunidade de forneccer um serviço que é especializado em organizar e engajar os usuários na troca de informações e opiniões sobre filmes, séries, documentários e outros servições de audiovisual. 
+
+**Descrição:** O projeto a ser desenvolvido consiste em uma rede social para entusiastas de séries, filmes, documentários e outros títulos audiovisuais. Nela, os usuários poderão registrar quais desses videos assistiram, dando sua opinião e avaliando os mesmos, além de encontrar outras pessoas que compartilham dos mesmos gostos para comentar sobre os títulos.
 
 Principais funcionalidades mapeadas:
 - Perfil do usuário
@@ -46,7 +48,7 @@ Projeto foi inspirado no [Skoob](https://www.skoob.com.br/), que é como se foss
 - Plataforma de desenvolvimento de software: [.Net](https://docs.microsoft.com/pt-br/dotnet/core/introduction)
 
 ### Banco de Dados
-- Banco de Dados: PostgreSQL
+- Banco de Dados: [PostgreSQL](#https://www.elephantsql.com/)
 
 ### Monitoramento
 - [Google Analytics](https://analytics.google.com/)
