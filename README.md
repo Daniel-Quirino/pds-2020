@@ -44,8 +44,6 @@ Projeto foi inspirado no [Skoob](https://www.skoob.com.br/), que é como se foss
 ### Back-End
 - Linguagem: C#
 - Plataforma de desenvolvimento de software: [.Net](https://docs.microsoft.com/pt-br/dotnet/core/introduction)
-- Testes Unitários: a definir
-- Testes de Integração: a definir
 
 ### Banco de Dados
 - Banco de Dados: PostgreSQL
