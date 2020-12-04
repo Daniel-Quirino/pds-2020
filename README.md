@@ -11,10 +11,6 @@
   - [Monitoramento](#monitoramento)
   - [Servidor](#servidor)
   - [Protótipos de tela](#prototipos-de-tela)
-- [Commit](#commit)
-- [Estrutura de diretórios](#estrutura-de-diretórios)
-- [Executando localmente](#executando-localmente)
-- [Pendências](#pendências)
 
 ## Equipe
 A equipe responsável por desenvolver esse projeto é:
