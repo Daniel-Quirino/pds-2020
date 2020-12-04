@@ -21,7 +21,7 @@ A equipe responsável por desenvolver esse projeto é:
 - Ricardo
 
 ## Escopo
-**Motivação:** Com o surgimento e aumento das plataforma de Streaming além das consequências do Covid, a utilização dessas mídias tem aumentado bastante nos últimos tempos. Assim sendo, vemos a oportunidade de forneccer um serviço que é especializado em organizar e engajar os usuários na troca de informações e opiniões sobre filmes, séries, documentários e outros servições de audiovisual. 
+**Motivação:** Com o surgimento e aumento das plataforma de Streaming além das consequências do Covid, a utilização dessas mídias tem aumentado bastante nos últimos tempos. Assim sendo, vemos a oportunidade de forneccer um serviço que é especializado em organizar e engajar os usuários na troca de informações e opiniões sobre filmes, séries, documentários e outras mídias audiovisuais. 
 
 **Descrição:** O projeto a ser desenvolvido consiste em uma rede social para entusiastas de séries, filmes, documentários e outros títulos audiovisuais. Nela, os usuários poderão registrar quais desses videos assistiram, dando sua opinião e avaliando os mesmos, além de encontrar outras pessoas que compartilham dos mesmos gostos para comentar sobre os títulos.
 
@@ -62,4 +62,4 @@ Projeto foi inspirado no [Skoob](https://www.skoob.com.br/), que é como se foss
 - [Figma](https://www.figma.com/login)
 
 ### Scrum
-Utilizaremos a metologia ágil SCRUM, assim sendo, achamos melhor utilizar a ferramenta de Gestão de Backloag do Azure devops para poder fazer esse gerenciamento, assim, podemos ter as informações de todo o nosso backloag, as estórias criadas, o andamento da sprint, gráficos de Burndown e várias outras métricas que o Azure Devops nos fornece. Criamos um projeto que pode ser acessado por esse [link](https://dev.azure.com/pds-2020/PDS-2020/). Caso o link não funcione, é preciso aceitar o e-mail que foi enviado dando a permissão para poder acessar a ferramenta.
+Utilizaremos a metologia ágil SCRUM, assim sendo, achamos melhor utilizar a ferramenta de Gestão de Backlog do Azure DevOps para poder fazer esse gerenciamento, assim, podemos ter as informações de todo o nosso backlog, as estórias criadas, o andamento da sprint, gráficos de Burndown e várias outras métricas que o Azure DevOps nos fornece. Criamos um projeto que pode ser acessado por esse [link](https://dev.azure.com/pds-2020/PDS-2020/). Caso o link não funcione, é preciso aceitar o e-mail que foi enviado dando a permissão para poder acessar a ferramenta.
