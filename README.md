@@ -10,6 +10,7 @@
   - [Banco de Dados](#banco-de-dados)
   - [Monitoramento](#monitoramento)
   - [Servidor](#servidor)
+  - [Protótipos de tela](#prototipos-de-tela)
 - [Commit](#commit)
 - [Estrutura de diretórios](#estrutura-de-diretórios)
 - [Executando localmente](#executando-localmente)
@@ -23,7 +24,15 @@ A equipe responsável por desenvolver esse projeto é:
 - Ricardo
 
 ## Escopo
-O projeto a ser desenvolvido consiste em uma rede social para entusiastas de séries e filmes. Nela, os usuários poderão registrar quais filmes e séries assistiram, dando sua opinião sobre os mesmos, além de encontrar outras pessoas que compartilham dos mesmos gostos para comentar sobre os títulos.
+O projeto a ser desenvolvido consiste em uma rede social para entusiastas de séries, filmes, documentários e outros tpitulos audiovisuais. Nela, os usuários poderão registrar quais desses videos assistiram, dando sua opinião e avaliando os mesmos, além de encontrar outras pessoas que compartilham dos mesmos gostos para comentar sobre os títulos.
+
+Principais funcionalidades mapeadas:
+- Perfil do usuário
+- Perfil dos títulos audivisuais, com a possibilidade de comentar, avaliar e ver essas mesmas informações dos outros usuários 
+- Painel de buscas para procurar esses títulos audivisuais
+- Painel para buscar outros usuários
+
+Projeto foi inspirado no [Skoob](https://www.skoob.com.br/), que é como se fosse uma rede social de livros. 
 
 ## Tecnologias Envolvidas
 
@@ -50,3 +59,5 @@ O projeto a ser desenvolvido consiste em uma rede social para entusiastas de sé
 ### Servidor
 - Heroku
 
+### Protótipos de tela
+- [Figma](https://www.figma.com/login)
