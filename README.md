@@ -13,13 +13,6 @@
 - [Commit](#commit)
 - [Estrutura de diretórios](#estrutura-de-diretórios)
 - [Executando localmente](#executando-localmente)
-- [Arquitetura Front](#arquitetura-front)
-- [Arquitetura Back](#arquitetura-das-apis)
-- [Testes Unitários](#testes-ubitarios)
-- [Testes de Integração](#testes-de-integracao)
-- [Testes de interface](#testes-de-interface)
-- [Testes end-2-end](#testes-de-interface)
-- [Servidor](#servidor-e-armazenamento-de-arquivos)
 - [Pendências](#pendências)
 
 ## Equipe
@@ -43,7 +36,7 @@ O projeto a ser desenvolvido consiste em uma rede social para entusiastas de sé
 
 ### Back-End
 - Linguagem: C#
-- Framework: .Net Core
+- Plataforma de desenvolvimento de software: .Net Core
 - Testes Unitários: a definir
 - Testes de Integração: a definir
 
@@ -55,5 +48,5 @@ O projeto a ser desenvolvido consiste em uma rede social para entusiastas de sé
 - [Hotjar](https://www.hotjar.com/)
 
 ### Servidor
-- A definir
+- Heroku
 
