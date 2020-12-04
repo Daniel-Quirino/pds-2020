@@ -45,7 +45,7 @@ Projeto foi inspirado no [Skoob](https://www.skoob.com.br/), que é como se foss
 
 ### Back-End
 - Linguagem: C#
-- Plataforma de desenvolvimento de software: .Net Core
+- Plataforma de desenvolvimento de software: [.Net](https://docs.microsoft.com/pt-br/dotnet/core/introduction)
 - Testes Unitários: a definir
 - Testes de Integração: a definir
 
@@ -57,7 +57,7 @@ Projeto foi inspirado no [Skoob](https://www.skoob.com.br/), que é como se foss
 - [Hotjar](https://www.hotjar.com/)
 
 ### Servidor
-- Heroku
+- [Heroku](https://www.heroku.com/)
 
 ### Protótipos de tela
 - [Figma](https://www.figma.com/login)
