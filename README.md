@@ -5,7 +5,7 @@
 - [Grupo](#grupo)
 - [Resumo](#resumo)
 - [Commit](#commit)
-- [Tecnologias Envolvida](#tecnologia-envolvida)
+- [Tecnologias Envolvidas](#tecnologia-envolvida)
 - [Estrutura de diretórios](#estrutura-de-diretórios)
 - [Executando localmente](#executando-localmente)
 - [Arquitetura Front](#arquitetura-front)
@@ -23,6 +23,7 @@ O grupo responsável por desenvolver esse projeto foram:
 - Daniel Quirino
 - Lucas Silva
 - Ricardo
-- Matheus
+- Matheus Lima
 
 ## Resumo
+O projeto a ser desenvolvido consiste em uma rede social para entusiastas de séries e filmes. Nela, os usuários poderão registrar quais filmes e séries assistiram, dando sua opinião sobre os mesmos, além de encontrar outras pessoas que compartilham dos mesmos gostos para comentar sobre os títulos.
