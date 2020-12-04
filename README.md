@@ -24,7 +24,7 @@ A equipe responsável por desenvolver esse projeto é:
 - Ricardo
 
 ## Escopo
-O projeto a ser desenvolvido consiste em uma rede social para entusiastas de séries, filmes, documentários e outros tpitulos audiovisuais. Nela, os usuários poderão registrar quais desses videos assistiram, dando sua opinião e avaliando os mesmos, além de encontrar outras pessoas que compartilham dos mesmos gostos para comentar sobre os títulos.
+**Descrição:** O projeto a ser desenvolvido consiste em uma rede social para entusiastas de séries, filmes, documentários e outros tpitulos audiovisuais. Nela, os usuários poderão registrar quais desses videos assistiram, dando sua opinião e avaliando os mesmos, além de encontrar outras pessoas que compartilham dos mesmos gostos para comentar sobre os títulos.
 
 Principais funcionalidades mapeadas:
 - Perfil do usuário
@@ -33,6 +33,8 @@ Principais funcionalidades mapeadas:
 - Painel para buscar outros usuários
 
 Projeto foi inspirado no [Skoob](https://www.skoob.com.br/), que é como se fosse uma rede social de livros. 
+
+**Sprint - Colocar em produção?:** Não teremos uma sprint apenas para colocar em produção, acreditamos que seja melhor fazer um MVP básico e colocar em produção a partir da primeira sprint, para que seja possível gerar valor no menor período de tempo.
 
 ## Tecnologias Envolvidas
 
