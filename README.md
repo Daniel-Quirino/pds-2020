@@ -11,6 +11,7 @@
   - [Monitoramento](#monitoramento)
   - [Servidor](#servidor)
   - [Protótipos de tela](#prototipos-de-tela)
+  - [Scrum](#scrum)
 
 ## Equipe
 A equipe responsável por desenvolver esse projeto é:
@@ -59,3 +60,6 @@ Projeto foi inspirado no [Skoob](https://www.skoob.com.br/), que é como se foss
 
 ### Protótipos de tela
 - [Figma](https://www.figma.com/login)
+
+### Scrum
+Utilizaremos a metologia ágil SCRUM, assim sendo, achamos melhor utilizar a ferramenta de Gestão de Backloag do Azure devops para poder fazer esse gerenciamento, assim, podemos ter as informações de todo o nosso backloag, as estórias criadas, o andamento da sprint, gráficos de Burndown e várias outras métricas que o Azure Devops nos fornece. Criamos um projeto do tipo gratuito que pode ser acessado por esse [link](https://dev.azure.com/pds-2020/PDS-2020/)
