@@ -1,4 +1,4 @@
-<h2 align="center">📊 Programação e Desenvolvimento de Software</h2>
+<h2 align="center">📊 Prática em Desenvolvimento de Software</h2>
 
 ## Conteúdo
 - [Conteúdo](#conteúdo)
