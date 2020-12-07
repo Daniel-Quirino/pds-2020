@@ -18,7 +18,7 @@ A equipe responsável por desenvolver esse projeto é:
 - Daniel Quirino
 - Lucas Silva
 - Matheus Lima
-- Ricardo
+- Ricardo de Oliveira
 
 ## Escopo
 **Motivação:** Com o surgimento e aumento das plataforma de Streaming além das consequências do Covid, a utilização dessas mídias tem aumentado bastante nos últimos tempos. Assim sendo, vemos a oportunidade de forneccer um serviço que é especializado em organizar e engajar os usuários na troca de informações e opiniões sobre filmes, séries, documentários e outras mídias audiovisuais. 
