@@ -4,6 +4,7 @@
 - [Conteúdo](#conteúdo)
 - [Equipe](#equipe)
 - [Escopo](#escopo)
+- [Arquitetura](#arquitetura)
 - [Tecnologias Envolvidas](#tecnologia-envolvida)
   - [Front-End](#front-end)
   - [Back-End](#back-end)
@@ -34,6 +35,9 @@ Principais funcionalidades mapeadas:
 Projeto foi inspirado no [Skoob](https://www.skoob.com.br/), que é como se fosse uma rede social de livros. 
 
 **Sprint - Colocar em produção?:** Não teremos uma sprint apenas para colocar em produção, acreditamos que seja melhor fazer um MVP básico e colocar em produção a partir da primeira sprint, para que seja possível gerar valor no menor período de tempo.
+
+## Arquitetura
+
 
 ## Tecnologias Envolvidas
 
