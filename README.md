@@ -15,7 +15,7 @@
 
 ## Equipe
 A equipe responsável por desenvolver esse projeto é:
-- Daniel Quirino
+- Daniel Quirino - dpq@ufmg.br
 - Lucas Silva
 - Matheus Lima
 - Ricardo de Oliveira
@@ -47,6 +47,7 @@ Projeto foi inspirado no [Skoob](https://www.skoob.com.br/), que é como se foss
 ### Back-End
 - Linguagem: C#
 - Plataforma de desenvolvimento de software: [.Net](https://docs.microsoft.com/pt-br/dotnet/core/introduction)
+- Repositório do BackEnd: [Link](https://github.com/Daniel-Quirino/compartilhar-filme-backend)
 
 ### Banco de Dados
 - Banco de Dados: [PostgreSQL](#https://www.elephantsql.com/)
