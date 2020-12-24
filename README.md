@@ -37,7 +37,7 @@ Projeto foi inspirado no [Skoob](https://www.skoob.com.br/), que é como se foss
 **Sprint - Colocar em produção?:** Não teremos uma sprint apenas para colocar em produção, acreditamos que seja melhor fazer um MVP básico e colocar em produção a partir da primeira sprint, para que seja possível gerar valor no menor período de tempo.
 
 ## Arquitetura
-<p align="center"><img src="arquitetura.png"  width="30%"/></p>
+<p align="center"><img src="arquitetura.png"  width="60%"/></p>
 
 ## Tecnologias Envolvidas
 
