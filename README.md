@@ -17,7 +17,7 @@
 ## Equipe
 A equipe responsável por desenvolver esse projeto é:
 - Daniel Quirino - dpq@ufmg.br
-- Lucas Silva
+- Lucas Silva - lucasdipaula9969@ufmg.br
 - Matheus Lima
 - Ricardo de Oliveira
 
